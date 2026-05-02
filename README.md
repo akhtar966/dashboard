@@ -23,12 +23,17 @@ Analyzes top customers contributing to revenue, enabling targeted strategies.
 Provides insights into preferred payment methods used by customers.
 
 🛠️ Tools & Technologies
+
 Power BI – Dashboard creation & data visualization
+
 Power Query – Data cleaning & transformation
+
 DAX (Data Analysis Expressions) – Calculated measures and KPIs
 
 📊 Dashboard Highlights
+
 Interactive filters for Quarter and State selection
+
 Dynamic visualizations including:
 Bar charts
 Donut charts
@@ -36,9 +41,13 @@ KPI cards
 Trend analysis graphs
 
 📈 Insights Gained
+
 Maharashtra is the highest revenue-generating state
+
 Printers and Phones are the most profitable sub-categories
+
 Profit shows a declining trend from January to March
+
 Certain customers contribute significantly more to total sales
 
 📂 Dataset
