@@ -1,4 +1,5 @@
 📊 Madhav E-Commerce Sales Dashboard (Power BI)
+
 This project focuses on analyzing e-commerce sales data and building an interactive dashboard using Power BI to uncover business insights. The dashboard provides a comprehensive view of sales performance, customer behavior, and product trends.
 
 🚀 Key Features
